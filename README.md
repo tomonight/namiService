@@ -33,7 +33,7 @@ On the 5G years , coding online is not impossible , we believe that internet bag
 
 We can even run our code function on the internet , it is nami service another using.
 
-It’s useful when we run our code in paas or another future container.
+It’s useful when we run our code in paas or another future container, i think it also useful to machine learning,robot coding.
 
 
-# It is only my first step consider for it , hope it's usrful for open source
+# It is only my first step consider for it , hope it's usrful for open source.let the rivers trickle into the ocean!!

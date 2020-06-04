@@ -8,17 +8,19 @@ Recently I create two type to run our function:
 For example , when we coding ,we can use function on the internet , such as : 
 
 ``` 
-result1 := nami:functionOwnerName.function1(param1,param2) // 
-go 
+result1 := functionOwnerName.function1(param1,param2) `nami` 
+// go 
 ```
 
 ```
-String result1 = nami:functionOwnerName.functionGroup.function1(param1,param2) 
+@nami("functionOwnerName")
+String result1 = functionOwnerName.functionGroup.function1(param1,param2) 
 // java 
 ```
 
 ```
-String date = nami:tomonight.dateHandler.parse24Date(param1,param2) 
+@nami("tomonight")
+String date = dateHandler.parse24Date(param1,param2) 
 // java
 ``` 
 
